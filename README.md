@@ -34,6 +34,8 @@ pip install -r requirements.txt
 
 ### Executing program
 
+Initially, please refer to the rar file contained in the repository, download and unrar it. It is because there are multiple empty directories contained in the research, which is to let the user create the train and test files by running the code directly, instead of providing the files in advance (as it is required by the reviewer to show that the train-test split are not influenced by the FUTURE INFORMATION PROBLEM). And github won't allow to push empty directories unless it contains the .gitkeep file.
+
 Simply open every ipynb file and run them with the right kernel.
 
 ## Authors

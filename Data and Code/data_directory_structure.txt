@@ -1,0 +1,432 @@
+Current Directory: ./Data
+Subdirectory: ./Data\ASX_stockconsidering
+Subdirectory: ./Data\Generated
+Subdirectory: ./Data\Grouped
+Subdirectory: ./Data\MAE_MSE
+Subdirectory: ./Data\Parameter_tuning_0.9995
+Subdirectory: ./Data\Parameter_tuning_0.9997
+Subdirectory: ./Data\Prediction
+File: ./Data\Company Group.CSV
+Current Directory: ./Data\ASX_stockconsidering
+File: ./Data\ASX_stockconsidering\AIA.AX.csv
+File: ./Data\ASX_stockconsidering\ALL.AX.csv
+File: ./Data\ASX_stockconsidering\ANZ.AX.csv
+File: ./Data\ASX_stockconsidering\APA.AX.csv
+File: ./Data\ASX_stockconsidering\ASX.AX.csv
+File: ./Data\ASX_stockconsidering\BHP.AX.csv
+File: ./Data\ASX_stockconsidering\BXB.AX.csv
+File: ./Data\ASX_stockconsidering\CBA.AX.csv
+File: ./Data\ASX_stockconsidering\COH.AX.csv
+File: ./Data\ASX_stockconsidering\CPU.AX.csv
+File: ./Data\ASX_stockconsidering\CSL.AX.csv
+File: ./Data\ASX_stockconsidering\FMG.AX.csv
+File: ./Data\ASX_stockconsidering\FPH.AX.csv
+File: ./Data\ASX_stockconsidering\GMG.AX.csv
+File: ./Data\ASX_stockconsidering\IAG.AX.csv
+File: ./Data\ASX_stockconsidering\IGO.AX.csv
+File: ./Data\ASX_stockconsidering\JHX.AX.csv
+File: ./Data\ASX_stockconsidering\MIN.AX.csv
+File: ./Data\ASX_stockconsidering\MQG.AX.csv
+File: ./Data\ASX_stockconsidering\NAB.AX.csv
+File: ./Data\ASX_stockconsidering\NCM.AX.csv
+File: ./Data\ASX_stockconsidering\NST.AX.csv
+File: ./Data\ASX_stockconsidering\ORG.AX.csv
+File: ./Data\ASX_stockconsidering\PLS.AX.csv
+File: ./Data\ASX_stockconsidering\QAN.AX.csv
+File: ./Data\ASX_stockconsidering\QBE.AX.csv
+File: ./Data\ASX_stockconsidering\REA.AX.csv
+File: ./Data\ASX_stockconsidering\REH.AX.csv
+File: ./Data\ASX_stockconsidering\RHC.AX.csv
+File: ./Data\ASX_stockconsidering\RIO.AX.csv
+File: ./Data\ASX_stockconsidering\RMD.AX.csv
+File: ./Data\ASX_stockconsidering\S32.AX.csv
+File: ./Data\ASX_stockconsidering\SCG.AX.csv
+File: ./Data\ASX_stockconsidering\SGP.AX.csv
+File: ./Data\ASX_stockconsidering\SHL.AX.csv
+File: ./Data\ASX_stockconsidering\SOL.AX.csv
+File: ./Data\ASX_stockconsidering\STO.AX.csv
+File: ./Data\ASX_stockconsidering\SUN.AX.csv
+File: ./Data\ASX_stockconsidering\TCL.AX.csv
+File: ./Data\ASX_stockconsidering\TLS.AX.csv
+File: ./Data\ASX_stockconsidering\TPG.AX.csv
+File: ./Data\ASX_stockconsidering\WBC.AX.csv
+File: ./Data\ASX_stockconsidering\WDS.AX.csv
+File: ./Data\ASX_stockconsidering\WES.AX.csv
+File: ./Data\ASX_stockconsidering\WOW.AX.csv
+File: ./Data\ASX_stockconsidering\WTC.AX.csv
+File: ./Data\ASX_stockconsidering\XRO.AX.csv
+Current Directory: ./Data\Generated
+Subdirectory: ./Data\Generated\0.9995_2
+Subdirectory: ./Data\Generated\0.9997_2
+Current Directory: ./Data\Generated\0.9995_2
+Subdirectory: ./Data\Generated\0.9995_2\Test
+Subdirectory: ./Data\Generated\0.9995_2\Train
+Current Directory: ./Data\Generated\0.9995_2\Test
+Subdirectory: ./Data\Generated\0.9995_2\Test\Consumer and Service Sectors
+Subdirectory: ./Data\Generated\0.9995_2\Test\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Generated\0.9995_2\Test\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Generated\0.9995_2\Test\Consumer and Service Sectors
+Current Directory: ./Data\Generated\0.9995_2\Test\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Generated\0.9995_2\Test\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Generated\0.9995_2\Train
+Subdirectory: ./Data\Generated\0.9995_2\Train\Consumer and Service Sectors
+Subdirectory: ./Data\Generated\0.9995_2\Train\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Generated\0.9995_2\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Generated\0.9995_2\Train\Consumer and Service Sectors
+Current Directory: ./Data\Generated\0.9995_2\Train\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Generated\0.9995_2\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Generated\0.9997_2
+Subdirectory: ./Data\Generated\0.9997_2\Test
+Subdirectory: ./Data\Generated\0.9997_2\Train
+Current Directory: ./Data\Generated\0.9997_2\Test
+Subdirectory: ./Data\Generated\0.9997_2\Test\Consumer and Service Sectors
+Subdirectory: ./Data\Generated\0.9997_2\Test\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Generated\0.9997_2\Test\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Generated\0.9997_2\Test\Consumer and Service Sectors
+Current Directory: ./Data\Generated\0.9997_2\Test\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Generated\0.9997_2\Test\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Generated\0.9997_2\Train
+Subdirectory: ./Data\Generated\0.9997_2\Train\Consumer and Service Sectors
+Subdirectory: ./Data\Generated\0.9997_2\Train\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Generated\0.9997_2\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Generated\0.9997_2\Train\Consumer and Service Sectors
+Current Directory: ./Data\Generated\0.9997_2\Train\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Generated\0.9997_2\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Grouped
+Subdirectory: ./Data\Grouped\Eliminated
+Current Directory: ./Data\Grouped\Eliminated
+File: ./Data\Grouped\Eliminated\COL.AX_Start From 2018-11-21.csv
+File: ./Data\Grouped\Eliminated\EDV.AX_Start From 2021-06-24.csv
+File: ./Data\Grouped\Eliminated\TLC.AX_Start From 2022-05-24.csv
+Current Directory: ./Data\MAE_MSE
+Subdirectory: ./Data\MAE_MSE\0.9995
+Subdirectory: ./Data\MAE_MSE\0.9997
+Current Directory: ./Data\MAE_MSE\0.9995
+Subdirectory: ./Data\MAE_MSE\0.9995\252
+Subdirectory: ./Data\MAE_MSE\0.9995\504
+Subdirectory: ./Data\MAE_MSE\0.9995\63
+Current Directory: ./Data\MAE_MSE\0.9995\252
+Subdirectory: ./Data\MAE_MSE\0.9995\252\CNN
+Subdirectory: ./Data\MAE_MSE\0.9995\252\SSA-CNN
+Subdirectory: ./Data\MAE_MSE\0.9995\252\SSA-CNN-LSTM
+Subdirectory: ./Data\MAE_MSE\0.9995\252\SSA-LSTM
+Current Directory: ./Data\MAE_MSE\0.9995\252\CNN
+Current Directory: ./Data\MAE_MSE\0.9995\252\SSA-CNN
+Current Directory: ./Data\MAE_MSE\0.9995\252\SSA-CNN-LSTM
+Current Directory: ./Data\MAE_MSE\0.9995\252\SSA-LSTM
+Current Directory: ./Data\MAE_MSE\0.9995\504
+Subdirectory: ./Data\MAE_MSE\0.9995\504\CNN
+Subdirectory: ./Data\MAE_MSE\0.9995\504\SSA-CNN
+Subdirectory: ./Data\MAE_MSE\0.9995\504\SSA-CNN-LSTM
+Subdirectory: ./Data\MAE_MSE\0.9995\504\SSA-LSTM
+Current Directory: ./Data\MAE_MSE\0.9995\504\CNN
+Current Directory: ./Data\MAE_MSE\0.9995\504\SSA-CNN
+Current Directory: ./Data\MAE_MSE\0.9995\504\SSA-CNN-LSTM
+Current Directory: ./Data\MAE_MSE\0.9995\504\SSA-LSTM
+Current Directory: ./Data\MAE_MSE\0.9995\63
+Subdirectory: ./Data\MAE_MSE\0.9995\63\CNN
+Subdirectory: ./Data\MAE_MSE\0.9995\63\SSA-CNN
+Subdirectory: ./Data\MAE_MSE\0.9995\63\SSA-CNN-LSTM
+Subdirectory: ./Data\MAE_MSE\0.9995\63\SSA-LSTM
+Current Directory: ./Data\MAE_MSE\0.9995\63\CNN
+Current Directory: ./Data\MAE_MSE\0.9995\63\SSA-CNN
+Current Directory: ./Data\MAE_MSE\0.9995\63\SSA-CNN-LSTM
+Current Directory: ./Data\MAE_MSE\0.9995\63\SSA-LSTM
+Current Directory: ./Data\MAE_MSE\0.9997
+Subdirectory: ./Data\MAE_MSE\0.9997\252
+Subdirectory: ./Data\MAE_MSE\0.9997\504
+Subdirectory: ./Data\MAE_MSE\0.9997\63
+Current Directory: ./Data\MAE_MSE\0.9997\252
+Subdirectory: ./Data\MAE_MSE\0.9997\252\CNN
+Subdirectory: ./Data\MAE_MSE\0.9997\252\SSA-CNN
+Subdirectory: ./Data\MAE_MSE\0.9997\252\SSA-CNN-LSTM
+Subdirectory: ./Data\MAE_MSE\0.9997\252\SSA-LSTM
+Current Directory: ./Data\MAE_MSE\0.9997\252\CNN
+Current Directory: ./Data\MAE_MSE\0.9997\252\SSA-CNN
+Current Directory: ./Data\MAE_MSE\0.9997\252\SSA-CNN-LSTM
+Current Directory: ./Data\MAE_MSE\0.9997\252\SSA-LSTM
+Current Directory: ./Data\MAE_MSE\0.9997\504
+Subdirectory: ./Data\MAE_MSE\0.9997\504\CNN
+Subdirectory: ./Data\MAE_MSE\0.9997\504\SSA-CNN
+Subdirectory: ./Data\MAE_MSE\0.9997\504\SSA-CNN-LSTM
+Subdirectory: ./Data\MAE_MSE\0.9997\504\SSA-LSTM
+Current Directory: ./Data\MAE_MSE\0.9997\504\CNN
+Current Directory: ./Data\MAE_MSE\0.9997\504\SSA-CNN
+Current Directory: ./Data\MAE_MSE\0.9997\504\SSA-CNN-LSTM
+Current Directory: ./Data\MAE_MSE\0.9997\504\SSA-LSTM
+Current Directory: ./Data\MAE_MSE\0.9997\63
+Subdirectory: ./Data\MAE_MSE\0.9997\63\CNN
+Subdirectory: ./Data\MAE_MSE\0.9997\63\SSA-CNN
+Subdirectory: ./Data\MAE_MSE\0.9997\63\SSA-CNN-LSTM
+Subdirectory: ./Data\MAE_MSE\0.9997\63\SSA-LSTM
+Current Directory: ./Data\MAE_MSE\0.9997\63\CNN
+Current Directory: ./Data\MAE_MSE\0.9997\63\SSA-CNN
+Current Directory: ./Data\MAE_MSE\0.9997\63\SSA-CNN-LSTM
+Current Directory: ./Data\MAE_MSE\0.9997\63\SSA-LSTM
+Current Directory: ./Data\Parameter_tuning_0.9995
+Subdirectory: ./Data\Parameter_tuning_0.9995\252
+Subdirectory: ./Data\Parameter_tuning_0.9995\252_Prediction
+Subdirectory: ./Data\Parameter_tuning_0.9995\504
+Subdirectory: ./Data\Parameter_tuning_0.9995\504_Prediction
+Subdirectory: ./Data\Parameter_tuning_0.9995\63
+Subdirectory: ./Data\Parameter_tuning_0.9995\63_Prediction
+Current Directory: ./Data\Parameter_tuning_0.9995\252
+Subdirectory: ./Data\Parameter_tuning_0.9995\252\Test
+Subdirectory: ./Data\Parameter_tuning_0.9995\252\Train
+Current Directory: ./Data\Parameter_tuning_0.9995\252\Test
+Subdirectory: ./Data\Parameter_tuning_0.9995\252\Test\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\252\Test\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\252\Test\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252\Test\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252\Test\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252\Test\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252\Train
+Subdirectory: ./Data\Parameter_tuning_0.9995\252\Train\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\252\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252\Train\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252_Prediction
+Subdirectory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-CNN
+Subdirectory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-CNN-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-LSTM
+Current Directory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-CNN
+Subdirectory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-CNN\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-CNN\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-CNN\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-CNN\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-CNN\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-CNN\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-CNN-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-CNN-LSTM\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-CNN-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-CNN-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-CNN-LSTM\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-CNN-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-CNN-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-LSTM\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-LSTM\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252_Prediction\SSA-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504
+Subdirectory: ./Data\Parameter_tuning_0.9995\504\Test
+Subdirectory: ./Data\Parameter_tuning_0.9995\504\Train
+Current Directory: ./Data\Parameter_tuning_0.9995\504\Test
+Subdirectory: ./Data\Parameter_tuning_0.9995\504\Test\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\504\Test\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\504\Test\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504\Test\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504\Test\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504\Test\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504\Train
+Subdirectory: ./Data\Parameter_tuning_0.9995\504\Train\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\504\Train\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\504\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504\Train\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504\Train\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504_Prediction
+Subdirectory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-CNN
+Subdirectory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-CNN-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-LSTM
+Current Directory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-CNN
+Subdirectory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-CNN\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-CNN\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-CNN\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-CNN\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-CNN\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-CNN\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-CNN-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-CNN-LSTM\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-CNN-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-CNN-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-CNN-LSTM\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-CNN-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-CNN-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-LSTM\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-LSTM\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\504_Prediction\SSA-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63
+Subdirectory: ./Data\Parameter_tuning_0.9995\63\Test
+Subdirectory: ./Data\Parameter_tuning_0.9995\63\Train
+Current Directory: ./Data\Parameter_tuning_0.9995\63\Test
+Subdirectory: ./Data\Parameter_tuning_0.9995\63\Test\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63\Test\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63\Train
+Subdirectory: ./Data\Parameter_tuning_0.9995\63\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63_Prediction
+Subdirectory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-CNN
+Subdirectory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-CNN-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-LSTM
+Current Directory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-CNN
+Subdirectory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-CNN\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-CNN\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-CNN\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-CNN\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-CNN\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-CNN\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-CNN-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-CNN-LSTM\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-CNN-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-CNN-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-CNN-LSTM\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-CNN-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-CNN-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-LSTM\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-LSTM\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997
+Subdirectory: ./Data\Parameter_tuning_0.9997\252
+Subdirectory: ./Data\Parameter_tuning_0.9997\252_Prediction
+Subdirectory: ./Data\Parameter_tuning_0.9997\504
+Subdirectory: ./Data\Parameter_tuning_0.9997\504_Prediction
+Subdirectory: ./Data\Parameter_tuning_0.9997\63
+Subdirectory: ./Data\Parameter_tuning_0.9997\63_Prediction
+Current Directory: ./Data\Parameter_tuning_0.9997\252
+Subdirectory: ./Data\Parameter_tuning_0.9997\252\Test
+Subdirectory: ./Data\Parameter_tuning_0.9997\252\Train
+Current Directory: ./Data\Parameter_tuning_0.9997\252\Test
+Subdirectory: ./Data\Parameter_tuning_0.9997\252\Test\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\252\Test\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\252\Test\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252\Test\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252\Test\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252\Test\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252\Train
+Subdirectory: ./Data\Parameter_tuning_0.9997\252\Train\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\252\Train\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\252\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252\Train\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252\Train\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252_Prediction
+Subdirectory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-CNN
+Subdirectory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-CNN-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-LSTM
+Current Directory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-CNN
+Subdirectory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-CNN\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-CNN\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-CNN\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-CNN\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-CNN\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-CNN\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-CNN-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-CNN-LSTM\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-CNN-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-CNN-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-CNN-LSTM\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-CNN-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-CNN-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-LSTM\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-LSTM\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\252_Prediction\SSA-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504
+Subdirectory: ./Data\Parameter_tuning_0.9997\504\Test
+Subdirectory: ./Data\Parameter_tuning_0.9997\504\Train
+Current Directory: ./Data\Parameter_tuning_0.9997\504\Test
+Subdirectory: ./Data\Parameter_tuning_0.9997\504\Test\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\504\Test\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\504\Test\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504\Test\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504\Test\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504\Test\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504\Train
+Subdirectory: ./Data\Parameter_tuning_0.9997\504\Train\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\504\Train\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\504\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504\Train\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504\Train\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504_Prediction
+Subdirectory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-CNN
+Subdirectory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-CNN-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-LSTM
+Current Directory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-CNN
+Subdirectory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-CNN\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-CNN\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-CNN\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-CNN\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-CNN\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-CNN\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-CNN-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-CNN-LSTM\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-CNN-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-CNN-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-CNN-LSTM\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-CNN-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-CNN-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-LSTM\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-LSTM\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\504_Prediction\SSA-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63
+Subdirectory: ./Data\Parameter_tuning_0.9997\63\Test
+Subdirectory: ./Data\Parameter_tuning_0.9997\63\Train
+Current Directory: ./Data\Parameter_tuning_0.9997\63\Test
+Subdirectory: ./Data\Parameter_tuning_0.9997\63\Test\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\63\Test\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\63\Test\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63\Test\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63\Test\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63\Test\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63\Train
+Subdirectory: ./Data\Parameter_tuning_0.9997\63\Train\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\63\Train\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\63\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63\Train\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63\Train\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63_Prediction
+Subdirectory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-CNN
+Subdirectory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-CNN-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-LSTM
+Current Directory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-CNN
+Subdirectory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-CNN\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-CNN\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-CNN\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-CNN\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-CNN\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-CNN\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-CNN-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-CNN-LSTM\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-CNN-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-CNN-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-CNN-LSTM\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-CNN-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-CNN-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-LSTM
+Subdirectory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-LSTM\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-LSTM\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-LSTM\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Parameter_tuning_0.9997\63_Prediction\SSA-LSTM\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Prediction
+Subdirectory: ./Data\Prediction\CNN
+Current Directory: ./Data\Prediction\CNN
+Subdirectory: ./Data\Prediction\CNN\Consumer and Service Sectors
+Subdirectory: ./Data\Prediction\CNN\Evaluation
+Subdirectory: ./Data\Prediction\CNN\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Prediction\CNN\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Prediction\CNN\Consumer and Service Sectors
+Current Directory: ./Data\Prediction\CNN\Evaluation
+Current Directory: ./Data\Prediction\CNN\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Prediction\CNN\Industrial and Infrastructure Sectors
