@@ -1,6 +1,6 @@
 # Integrating Singular Spectrum Analysis with Deep Learning Algorithms for Australian Stock Forecast
 
-The project aims to implement SSA algori
+The project aims to implement SSA method to the stocks and provide a trading strategy with the support of deep learning algorithms.
 
 ## Description
 
@@ -36,7 +36,21 @@ pip install -r requirements.txt
 
 Initially, please refer to the rar file contained in the repository, download and unrar it. It is because there are multiple empty directories contained in the research, which is to let the user create the train and test files by running the code directly, instead of providing the files in advance (as it is required by the reviewer to show that the train-test split are not influenced by the FUTURE INFORMATION PROBLEM). And github won't allow to push empty directories unless it contains the .gitkeep file.
 
+To download all the files in the repo, you can simply use git clone:
+
+```
+git clone https://github.com/FanZixian/Integrating-Singular-Spectrum-Analysis-with-Deep-Learning-Algorithms-for-Australia-Stocks-Forecast.git
+```
+
 Simply open every ipynb file and run them with the right kernel.
+
+The formal sequence of running the program is:
+1. Make sure you have all the repositories as mentioned in the `data_directory_structure.txt` file, otherwise some of the code cannot find the existing paths.
+2. Run the `Stock Generator.ipynb` to generate the stocks and seperate them into different groups.
+3. Run the `Tune_Set_Generation_9995.ipynb` and `Tune_Set_Generation_9995.ipynb` to generate the train and test sets of the stocks with the application of SSA algorithm to them. Note that the `print` and `plot`  functions are commented out to prevent it from providing too many messages that can potentially break the jupyter notebook.
+4. 
+
+
 
 ## Authors
 
@@ -46,4 +60,4 @@ Contributors names and contact info
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+The data is released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), and the code is available under the [MIT License](https://opensource.org/license/mit/). - see the `LICENSE.md` files for details

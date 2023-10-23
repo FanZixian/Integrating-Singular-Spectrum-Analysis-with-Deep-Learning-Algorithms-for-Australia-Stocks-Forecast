@@ -47,7 +47,7 @@ class SSA(object):
         # Embed the time series into a Hankel matrix
         hankel_mat = hankel(self.ts, np.zeros(self.L))
         hankel_mat = hankel_mat[:-self.L + 1, :]
-        print(hankel_mat.shape)
+        # print(hankel_mat.shape)
         
         # Perform Singular Value Decomposition (SVD) on the Hankel matrix
         self.U, self.Sigma, self.Vt = svd(hankel_mat)
@@ -72,7 +72,7 @@ class SSA(object):
         # Calculate the contribution of each component
         self.contributions = [(sv ** 2) / total_variance for sv in singular_values]
 
-        print(self.contributions)
+        # print(self.contributions)
         
         # Calculate how many components should remain
         sum_of_contributions = 0
@@ -82,7 +82,7 @@ class SSA(object):
             index += 1
             if sum_of_contributions > self.criteria:
                 break
-        print(index)
+        # print(index)
         self.num_components = index
         return index
 
@@ -107,7 +107,7 @@ class SSA(object):
     
     def obtain_correlation_matrix(self):
         df = pd.DataFrame(self.components)
-        print(df.shape)
+        # print(df.shape)
         correlation_matrix = df.corr()
         # Create a heatmap using Seaborn
         plt.figure(figsize=(10, 8))  # Set the size of the plot
@@ -124,7 +124,7 @@ class SSA(object):
         # if (self.contributions[0] >= criteria):
         #     return 'You should reduce the group number'
         
-        print('The number of newly created series is:', str(desired_num_clusters))
+        # print('The number of newly created series is:', str(desired_num_clusters))
         flatten_timeseries = self.components.T
         kmeans = KMeans(n_clusters=desired_num_clusters, random_state=2023)
         cluster_labels = kmeans.fit_predict(flatten_timeseries)
