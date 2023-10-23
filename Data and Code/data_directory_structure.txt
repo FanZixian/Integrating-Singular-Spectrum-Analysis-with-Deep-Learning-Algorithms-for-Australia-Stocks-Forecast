@@ -1,12 +1,12 @@
 Current Directory: ./Data
 Subdirectory: ./Data\ASX_stockconsidering
-Subdirectory: ./Data\Generated
 Subdirectory: ./Data\Grouped
 Subdirectory: ./Data\MAE_MSE
 Subdirectory: ./Data\Parameter_tuning_0.9995
 Subdirectory: ./Data\Parameter_tuning_0.9997
 Subdirectory: ./Data\Prediction
 File: ./Data\Company Group.CSV
+File: ./Data\LICENSE
 Current Directory: ./Data\ASX_stockconsidering
 File: ./Data\ASX_stockconsidering\AIA.AX.csv
 File: ./Data\ASX_stockconsidering\ALL.AX.csv
@@ -55,49 +55,18 @@ File: ./Data\ASX_stockconsidering\WES.AX.csv
 File: ./Data\ASX_stockconsidering\WOW.AX.csv
 File: ./Data\ASX_stockconsidering\WTC.AX.csv
 File: ./Data\ASX_stockconsidering\XRO.AX.csv
-Current Directory: ./Data\Generated
-Subdirectory: ./Data\Generated\0.9995_2
-Subdirectory: ./Data\Generated\0.9997_2
-Current Directory: ./Data\Generated\0.9995_2
-Subdirectory: ./Data\Generated\0.9995_2\Test
-Subdirectory: ./Data\Generated\0.9995_2\Train
-Current Directory: ./Data\Generated\0.9995_2\Test
-Subdirectory: ./Data\Generated\0.9995_2\Test\Consumer and Service Sectors
-Subdirectory: ./Data\Generated\0.9995_2\Test\Financial, Healthcare, Technology, and Utilities Sectors
-Subdirectory: ./Data\Generated\0.9995_2\Test\Industrial and Infrastructure Sectors
-Current Directory: ./Data\Generated\0.9995_2\Test\Consumer and Service Sectors
-Current Directory: ./Data\Generated\0.9995_2\Test\Financial, Healthcare, Technology, and Utilities Sectors
-Current Directory: ./Data\Generated\0.9995_2\Test\Industrial and Infrastructure Sectors
-Current Directory: ./Data\Generated\0.9995_2\Train
-Subdirectory: ./Data\Generated\0.9995_2\Train\Consumer and Service Sectors
-Subdirectory: ./Data\Generated\0.9995_2\Train\Financial, Healthcare, Technology, and Utilities Sectors
-Subdirectory: ./Data\Generated\0.9995_2\Train\Industrial and Infrastructure Sectors
-Current Directory: ./Data\Generated\0.9995_2\Train\Consumer and Service Sectors
-Current Directory: ./Data\Generated\0.9995_2\Train\Financial, Healthcare, Technology, and Utilities Sectors
-Current Directory: ./Data\Generated\0.9995_2\Train\Industrial and Infrastructure Sectors
-Current Directory: ./Data\Generated\0.9997_2
-Subdirectory: ./Data\Generated\0.9997_2\Test
-Subdirectory: ./Data\Generated\0.9997_2\Train
-Current Directory: ./Data\Generated\0.9997_2\Test
-Subdirectory: ./Data\Generated\0.9997_2\Test\Consumer and Service Sectors
-Subdirectory: ./Data\Generated\0.9997_2\Test\Financial, Healthcare, Technology, and Utilities Sectors
-Subdirectory: ./Data\Generated\0.9997_2\Test\Industrial and Infrastructure Sectors
-Current Directory: ./Data\Generated\0.9997_2\Test\Consumer and Service Sectors
-Current Directory: ./Data\Generated\0.9997_2\Test\Financial, Healthcare, Technology, and Utilities Sectors
-Current Directory: ./Data\Generated\0.9997_2\Test\Industrial and Infrastructure Sectors
-Current Directory: ./Data\Generated\0.9997_2\Train
-Subdirectory: ./Data\Generated\0.9997_2\Train\Consumer and Service Sectors
-Subdirectory: ./Data\Generated\0.9997_2\Train\Financial, Healthcare, Technology, and Utilities Sectors
-Subdirectory: ./Data\Generated\0.9997_2\Train\Industrial and Infrastructure Sectors
-Current Directory: ./Data\Generated\0.9997_2\Train\Consumer and Service Sectors
-Current Directory: ./Data\Generated\0.9997_2\Train\Financial, Healthcare, Technology, and Utilities Sectors
-Current Directory: ./Data\Generated\0.9997_2\Train\Industrial and Infrastructure Sectors
 Current Directory: ./Data\Grouped
+Subdirectory: ./Data\Grouped\Consumer and Service Sectors
 Subdirectory: ./Data\Grouped\Eliminated
+Subdirectory: ./Data\Grouped\Financial, Healthcare, Technology, and Utilities Sectors
+Subdirectory: ./Data\Grouped\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Grouped\Consumer and Service Sectors
 Current Directory: ./Data\Grouped\Eliminated
 File: ./Data\Grouped\Eliminated\COL.AX_Start From 2018-11-21.csv
 File: ./Data\Grouped\Eliminated\EDV.AX_Start From 2021-06-24.csv
 File: ./Data\Grouped\Eliminated\TLC.AX_Start From 2022-05-24.csv
+Current Directory: ./Data\Grouped\Financial, Healthcare, Technology, and Utilities Sectors
+Current Directory: ./Data\Grouped\Industrial and Infrastructure Sectors
 Current Directory: ./Data\MAE_MSE
 Subdirectory: ./Data\MAE_MSE\0.9995
 Subdirectory: ./Data\MAE_MSE\0.9997
@@ -181,8 +150,10 @@ Current Directory: ./Data\Parameter_tuning_0.9995\252\Test\Consumer and Service 
 Current Directory: ./Data\Parameter_tuning_0.9995\252\Test\Financial, Healthcare, Technology, and Utilities Sectors
 Current Directory: ./Data\Parameter_tuning_0.9995\252\Test\Industrial and Infrastructure Sectors
 Current Directory: ./Data\Parameter_tuning_0.9995\252\Train
+Subdirectory: ./Data\Parameter_tuning_0.9995\252\Train\Consumer and Service Sectors
 Subdirectory: ./Data\Parameter_tuning_0.9995\252\Train\Financial, Healthcare, Technology, and Utilities Sectors
 Subdirectory: ./Data\Parameter_tuning_0.9995\252\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\252\Train\Consumer and Service Sectors
 Current Directory: ./Data\Parameter_tuning_0.9995\252\Train\Financial, Healthcare, Technology, and Utilities Sectors
 Current Directory: ./Data\Parameter_tuning_0.9995\252\Train\Industrial and Infrastructure Sectors
 Current Directory: ./Data\Parameter_tuning_0.9995\252_Prediction
@@ -256,10 +227,18 @@ Current Directory: ./Data\Parameter_tuning_0.9995\63
 Subdirectory: ./Data\Parameter_tuning_0.9995\63\Test
 Subdirectory: ./Data\Parameter_tuning_0.9995\63\Train
 Current Directory: ./Data\Parameter_tuning_0.9995\63\Test
+Subdirectory: ./Data\Parameter_tuning_0.9995\63\Test\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\63\Test\Financial, Healthcare, Technology, and Utilities Sectors
 Subdirectory: ./Data\Parameter_tuning_0.9995\63\Test\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63\Test\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63\Test\Financial, Healthcare, Technology, and Utilities Sectors
 Current Directory: ./Data\Parameter_tuning_0.9995\63\Test\Industrial and Infrastructure Sectors
 Current Directory: ./Data\Parameter_tuning_0.9995\63\Train
+Subdirectory: ./Data\Parameter_tuning_0.9995\63\Train\Consumer and Service Sectors
+Subdirectory: ./Data\Parameter_tuning_0.9995\63\Train\Financial, Healthcare, Technology, and Utilities Sectors
 Subdirectory: ./Data\Parameter_tuning_0.9995\63\Train\Industrial and Infrastructure Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63\Train\Consumer and Service Sectors
+Current Directory: ./Data\Parameter_tuning_0.9995\63\Train\Financial, Healthcare, Technology, and Utilities Sectors
 Current Directory: ./Data\Parameter_tuning_0.9995\63\Train\Industrial and Infrastructure Sectors
 Current Directory: ./Data\Parameter_tuning_0.9995\63_Prediction
 Subdirectory: ./Data\Parameter_tuning_0.9995\63_Prediction\SSA-CNN
