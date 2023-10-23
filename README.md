@@ -47,8 +47,9 @@ Simply open every ipynb file and run them with the right kernel.
 The formal sequence of running the program is:
 1. Make sure you have all the repositories as mentioned in the `data_directory_structure.txt` file, otherwise some of the code cannot find the existing paths.
 2. Run the `Stock Generator.ipynb` to generate the stocks and seperate them into different groups.
-3. Run the `Tune_Set_Generation_9995.ipynb` and `Tune_Set_Generation_9995.ipynb` to generate the train and test sets of the stocks with the application of SSA algorithm to them. Note that the `print` and `plot`  functions are commented out to prevent it from providing too many messages that can potentially break the jupyter notebook.
-4. 
+3. Run the `Tune_Set_Generation_9995.ipynb` and `Tune_Set_Generation_9995.ipynb` to generate the train and test sets of the stocks with the application of SSA algorithm to them. Note that the `print` and `plot`  functions are commented out to prevent it from providing too many messages that can potentially break the jupyter notebook. Each of the file could take quite long time according to Computer's CPU (The reimplementation of the research takes more than 2.5 hours each).
+4. Run the `CNN.ipynb` file to provide the prediction results of CNN model, which are stored in the `Data/Prediction/CNN` repo.
+5. 
 
 
 
