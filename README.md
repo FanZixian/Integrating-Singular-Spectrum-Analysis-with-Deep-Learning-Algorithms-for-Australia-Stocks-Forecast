@@ -55,7 +55,8 @@ The formal sequence of running the program is:
 2. Run the `Stock Generator.ipynb` to generate the stocks and seperate them into different groups.
 3. Run the `Tune_Set_Generation_9995.ipynb` and `Tune_Set_Generation_9995.ipynb` to generate the train and test sets of the stocks with the application of SSA algorithm to them. Note that the `print` and `plot`  functions are commented out to prevent it from providing too many messages that can potentially break the jupyter notebook. Each of the file could take quite long time according to Computer's CPU (The reimplementation of the research takes more than 2.5 hours each).
 4. Run the `CNN.ipynb` file to provide the prediction results of CNN model, which are stored in the `Data/Prediction/CNN` repo.
-5. 
+5. Run the 9 files named `SSA_(Some Models).ipynb`, no need to consider the sequence of them. Need to notice that the code is written in order to make sure it can run in a limited space of GPU, and it is easy to adjust to be easier to reuse in other purposes.
+6. Run the 3 files named `Evaludation_Calculator_(index).ipynb` to get the final result of the trading strategies performance.
 
 
 
